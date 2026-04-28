@@ -1,0 +1,38 @@
+# Dependencies
+frontend/node_modules/
+backend/.venv/
+.venv/
+venv/
+
+# Environment variables
+backend/.env
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Build outputs
+frontend/build/
+frontend/dist/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# Model artifacts
+*.pkl
+*.joblib
