@@ -36,3 +36,4 @@ npm-debug.log*
 # Model artifacts
 *.pkl
 *.joblib
+nebulax-code.zip
